@@ -1,5 +1,7 @@
 # 🍽️ Meals & Recipes App (Flutter)
 
+**🔗 Live demo:** https://nainezz.github.io/restaurentprojcet/
+
 A recipe browsing app built with **Flutter**. Explore meals by category, read the ingredients and steps for each recipe, save favourites and filter by dietary needs.
 
 ## Features
